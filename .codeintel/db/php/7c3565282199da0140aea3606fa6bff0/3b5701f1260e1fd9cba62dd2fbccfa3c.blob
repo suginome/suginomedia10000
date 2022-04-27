@@ -1,0 +1,1 @@
+<scope ilk="blob" lang="PHP" name="web.php" src="/home/ec2-user/environment/cms/routes/web.php"><import line="3" module="Illuminate\Support\Facades" symbol="Route" /><import line="4" module="App\Http\Controllers" symbol="BookController" /></scope>
